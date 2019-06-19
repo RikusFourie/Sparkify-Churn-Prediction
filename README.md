@@ -45,3 +45,8 @@ I found it very interesting that the model was able to perform so well on so lit
 The biggest lack of this project is the size of the dataset the model was trained on. Since this model was built to run on big data platforms like AWS I think the next step to improving this project will be to run train this model on a bigger dataset.
 
 Another improve will be to include more and better features than those that were included in this dataset, as I believe there might be some very good features that were left unexplored during the course of this project.
+
+## References
+1. https://www.superoffice.com/blog/reduce-customer-churn/
+2. https://towardsdatascience.com/hands-on-predict-customer-churn-5c2a42806266
+3. https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9.
