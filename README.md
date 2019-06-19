@@ -1,5 +1,8 @@
 # Sparkify-Churn-Prediction
 
+## Blogpost
+https://medium.com/@rikus.fourie/churn-prediction-using-pyspark-b50651437d34?postPublishedType=initial
+
 ## File Contents
     .
     ├── Images
